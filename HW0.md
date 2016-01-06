@@ -73,4 +73,4 @@ git revert HEAD
 
 ## Hooks
 This animation shows the post-commit hook for a git repository. The `post-commit` script opens the URL https://github.com/gdmannin/HW in the browser
-![post-commit script demo](/images/hw0gif.gif)
+![post-commit script demo](/Images/hw0gif.gif)
