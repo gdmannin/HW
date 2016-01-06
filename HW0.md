@@ -64,7 +64,7 @@ git checkout HEAD^
 ```
 git reset HEAD~1
 git checkout pushed
-git revert pushed OR git revert HEAD
+git revert HEAD
 ```
 
 
